@@ -9,4 +9,5 @@
 ### [Project 5 - Regression Machine Learning (Linear and Decision Tree) Housing Sales Price](https://github.com/Lnnon/ELEC303-3C/blob/main/JARABESE/Project%205/Machine_Learning_Exercise1-Jarabese.ipynb)
 ### [Project 6 - Classfication Machine Learning (Logistic and Random Forest) Titanic Survivability](https://github.com/Lnnon/ELEC303-3C/blob/main/JARABESE/Project%206/TitanicSurvavility_MachineLearning-Jarabese.ipynb)
 ### [Project 7 - Power Bi Basic Visualization - Movie Ratings](https://github.com/Lnnon/ELEC303-3C/blob/main/JARABESE/Project%207/PROJECT7_POWER-BI_JARABESE.PDF.pdf)
+### [Finals Project - Prio & Jarabese](https://github.com/Lnnon/ELEC303-3C/blob/main/JARABESE/Finals%20Project%20-%20Prio%20%26%20Jarabese/FINAL-PROJECT_PRIO-JARABESE.ipynb)
 
